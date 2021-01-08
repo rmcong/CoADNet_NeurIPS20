@@ -9,7 +9,7 @@ Project: https://rmcong.github.io/proj_CoADNet.html
 
 ## Results:
 - Test benchmark datasets can can be download from BaiduYun: https://pan.baidu.com/s/1P5P0Qptz9-G-9nMA1A8lSQ (code: MVPL) 
-- The results of our CoADNet can be download from BaiduYun: https://pan.baidu.com/s/1OsN57Ira4IHQ4wucqU1P4g (code: MVPL) 
+- The results of our CoADNet can be download from BaiduYun: https://pan.baidu.com/s/1A9TFQ6yC73ulR6UmJ4QMCw (code: MVPL) 
 
 ## If you use our results of CoADNet, please cite our paper:
 
